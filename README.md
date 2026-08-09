@@ -1,6 +1,6 @@
 # Edita 2
 
-A simple and lightweight local raster graphics editor for Android. Developed entirely on mobile devices using Sketchware Pro (utilizing pure Java classes).
+A simple and lightweight raster graphics editor for Android. Developed entirely on mobile devices using Sketchware Pro (utilizing pure Java classes).
 
 **Tech Stack**
 
