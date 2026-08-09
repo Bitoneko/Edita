@@ -4,7 +4,7 @@ A simple and lightweight raster graphics editor for Android. Developed entirely 
 
 # Tech Stack
 
-* **Language:** Kotlin & Java
+* **Languages:** Kotlin & Java
 * **Platform:** Android
 * **Development Environment:** Sketchware Pro (Add Source Directly / Custom Classes)
 
