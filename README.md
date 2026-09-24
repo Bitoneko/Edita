@@ -6,7 +6,3 @@ Lightweight raster graphics editor for Android.
 
 * **Languages:** Kotlin & Java
 * **Platform:** Android
-
-# APK
-
-In the **Releases** page.
