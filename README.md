@@ -57,17 +57,15 @@ The project combines Kotlin and Java and was designed around direct interaction 
 
 ## Project Status
 
-Edita 2 has been discontinued and is no longer actively developed.
+Edita 2 is no longer supported or maintained.
 
-Development of the next-generation graphics editor has moved to **Smilemoon**.
+All further development has moved to **Smilemoon**, which is the successor to Edita 2.
 
 <p align="center">
   <a href="https://github.com/Bitoneko/Smilemoon">
     <img src="https://img.shields.io/badge/Successor%20project-Smilemoon-808080?style=for-the-badge&logo=github&logoColor=white" alt="Successor project: Smilemoon">
   </a>
 </p>
-
-Smilemoon is the successor project to Edita 2 and continues the development of the graphics editing experience.
 
 <p align="center">
   <a href="https://github.com/Bitoneko/Edita/releases">
