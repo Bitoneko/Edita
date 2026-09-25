@@ -30,7 +30,6 @@ Edita 2 provides a collection of drawing, selection, editing, and color tools fo
 ### Image Tools
 
 - Image Stamp
-- TT
 - Text Stamp
 - Color Picker
 
