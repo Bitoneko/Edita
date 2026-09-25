@@ -2,6 +2,8 @@
 
 A lightweight raster graphics editor for Android, designed for drawing, image editing, and quick pixel-based work.
 
+<img width="800" height="900" alt="1000038610" src="https://github.com/user-attachments/assets/10829683-df98-4ba6-ae76-6547045f8979" />
+
 ## Features
 
 Edita 2 provides a collection of drawing, selection, editing, and color tools for working with raster images.
