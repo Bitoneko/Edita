@@ -41,9 +41,6 @@ Edita 2 includes several ways to select and configure colors:
 - Recent Colors
 - HSV Pad
 - HEX Color Input
-- Current Color
-- Selected Color
-- Cancel / Apply Controls
 
 ## Tech Stack
 
@@ -69,5 +66,11 @@ Development of the next-generation graphics editor has moved to **Smilemoon**.
 </p>
 
 Smilemoon is the successor project to Edita 2 and continues the development of the graphics editing experience.
+
+<p align="center">
+  <a href="https://github.com/Bitoneko/Edita/releases">
+    <img src="https://img.shields.io/badge/Download_on_GitHub-808080?style=for-the-badge&logo=github&logoColor=white" alt="Download on GitHub">
+  </a>
+</p>
 
 ### © 2026 Bitoneko.
