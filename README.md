@@ -52,8 +52,6 @@ Edita 2 includes several ways to select and configure colors:
 
 Edita 2 was developed as a lightweight raster graphics editor for Android, with a focus on providing common drawing and image-editing tools in a compact application.
 
-The project combines Kotlin and Java and was designed around direct interaction with raster images rather than vector-based graphics.
-
 ## Project Status
 
 Edita 2 is no longer supported or maintained.
